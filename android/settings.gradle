@@ -1,0 +1,3 @@
+rootProject.name = 'githubbrowser'
+
+include ':app'
